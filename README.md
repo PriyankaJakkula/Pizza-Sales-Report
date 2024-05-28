@@ -42,7 +42,7 @@ To view and interact with this dashboard, you need to have Power BI Desktop inst
 
 1. **Clone the Repository**:
    ```sh
- git clone https://github.com/PriyankaJakkula/pizza-sales-report-dashboard.git
+ git clone (https://github.com/PriyankaJakkula/Pizza-Sales-Report/blob/main/pizza%20sales%20SQL%2B%20Powerbi%20project.pbix)
    ```
 2. **Open Power BI Desktop** and load the provided `.pbix` file.
 
@@ -53,10 +53,10 @@ To view and interact with this dashboard, you need to have Power BI Desktop inst
 
 ## Screenshots
 ### Dashboard 1
-![Dashboard 1](https://github.com/PriyankaJakkula/Pizza-Sales-Report)
+![Dashboard 1](https://github.com/PriyankaJakkula/Pizza-Sales-Report/blob/main/Home%20Dashboard.png)
 
 ### Dashboard 2
-![Dashboard 2](https://github.com/PriyankaJakkula/Pizza-Sales-Report/)
+![Dashboard 2](https://github.com/PriyankaJakkula/Pizza-Sales-Report/blob/main/Best%20worst%20sallers%20dashboard.png)
 
 ---
 
